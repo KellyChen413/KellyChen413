@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AML transaction monitoring analysis (SQL, Python, Tableau)(in progress)**
 
-- 🌱 I’m currently learning **SQL, Python (Pandas), Tableau,Git,LLM ,AI for business)**
+- 🌱 I’m currently learning **SQL, Python (Pandas), Tableau,Git,LLM ,AI for business**
 
 - 👯 I’m looking to collaborate on [Public-data analytics for risk, payments and tax](https://kellychen413.github.io)
 
