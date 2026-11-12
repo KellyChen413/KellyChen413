@@ -6,7 +6,7 @@
 
 - 🌱 Currently learning **SQL, Python (pandas), Tableau, Git, LLMs and AI for business**
 
-- 👯 Looking to collaborate on [public-data analytics for risk, payments and tax](https://kellychen413.github.io)
+- 👯 Looking to collaborate on [public-data analytics for risk, payments and tax]
 
 - 👨‍💻 My projects and experience: [kellychen413.github.io](https://kellychen413.github.io)
 
